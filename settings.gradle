@@ -1,0 +1,3 @@
+include ':app'
+rootProject.name='KotlinImageUpload'
+enableFeaturePreview("GRADLE_METADATA")
